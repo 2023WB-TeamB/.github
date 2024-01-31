@@ -78,7 +78,7 @@
     - path : Docker-GCP/nginx/ceritificate.pem<br>
     - path : Docker-GCP/nginx/priviate.key<br>
 4. run<br>
-    `docker-compose -f docker-compose.prod.yml up --build`
+      `docker-compose -f docker-compose.prod.yml up --build`
 
 <br/><br/><br/>
 
