@@ -170,6 +170,136 @@ docker-compose -f docker-compose.prod.yml up --build
 
 ## 📁 File Directory
 
+<details>
+<summary>Click</summary>
+<pre>
+<code>
+  📦Docker-GCP
+   ┣ 📂.github
+   ┃ ┗ 📂workflows
+   ┃   ┗ 📜docker-image.yml
+   ┣ 📂backend
+   ┃ ┣ 📂.github
+   ┃ ┃ ┣ 📂ISSUE_TEMPLATE
+   ┃ ┃ ┗ 📂workflows
+   ┃ ┃   ┗ 📜django_deploy.yml
+   ┃ ┣ 📂badge
+   ┃ ┃ ┣ 📜__init__.py
+   ┃ ┃ ┣ 📜admin.py
+   ┃ ┃ ┣ 📜apps.py
+   ┃ ┃ ┣ 📜models.py
+   ┃ ┃ ┣ 📜tech_stack_images.py
+   ┃ ┃ ┣ 📜tests.py
+   ┃ ┃ ┣ 📜urls.py
+   ┃ ┃ ┗ 📜views.py
+   ┃ ┣ 📂docs
+   ┃ ┃ ┣ 📜__init__.py
+   ┃ ┃ ┣ 📜admin.py
+   ┃ ┃ ┣ 📜AiTask.py
+   ┃ ┃ ┣ 📜apps.py
+   ┃ ┃ ┣ 📜github.py
+   ┃ ┃ ┣ 📜models.py
+   ┃ ┃ ┣ 📜serializers.py
+   ┃ ┃ ┣ 📜tests.py
+   ┃ ┃ ┣ 📜urls.py
+   ┃ ┃ ┗ 📜views.py
+   ┃ ┣ 📂gtd
+   ┃ ┃ ┣ 📜__init__.py
+   ┃ ┃ ┣ 📜asgi.py
+   ┃ ┃ ┣ 📜celery.py
+   ┃ ┃ ┣ 📜settings.py
+   ┃ ┃ ┣ 📜urls.py
+   ┃ ┃ ┗ 📜wisgi.py  
+   ┃ ┣ 📂templates
+   ┃ ┃ ┗ 📂tag
+   ┃ ┃   ┣ 📜card1.html
+   ┃ ┃   ┣ 📜terminal1.html
+   ┃ ┃   ┗ 📜terminal2.html
+   ┃ ┗ 📂users
+   ┃ ┃ ┣ 📜__init__.py
+   ┃ ┃ ┣ 📜admin.py
+   ┃ ┃ ┣ 📜apps.py
+   ┃ ┃ ┣ 📜models.py
+   ┃ ┃ ┣ 📜serializers.py
+   ┃ ┃ ┣ 📜tests.py
+   ┃ ┃ ┣ 📜urls.py
+   ┃ ┃ ┣ 📜utils.py 
+   ┃ ┃ ┗ 📜views.py
+   ┃ ┣ 📜.gitignore
+   ┃ ┣ 🐳docker-compose.dev.yml
+   ┃ ┣ 🐳Dockerfile
+   ┃ ┣ 📜manage.py
+   ┃ ┣ 📜prometheus.yml
+   ┃ ┣ 📜README.md
+   ┃ ┗ 📜requirements.txt
+   ┣ 📂frontend
+   ┃ ┣ 📂.github
+   ┃ ┃ ┗ 📂ISSUE_TEMPLATE
+   ┃ ┣ 📂public
+   ┃ ┃ ┗ 📜gtd.svg
+   ┃ ┣ 📂src
+   ┃ ┃ ┣ 📂assets
+   ┃ ┃ ┃ ┣ 📂fonts
+   ┃ ┃ ┃ ┗ 📂images
+   ┃ ┃ ┃   ┣ 📂MainPage
+   ┃ ┃ ┃   ┣ 📂mydocs
+   ┃ ┃ ┃   ┗ 📂Viewer
+   ┃ ┃ ┃     ┗ 📂Badge
+   ┃ ┃ ┣ 📂components
+   ┃ ┃ ┃ ┣ 📂MainPage
+   ┃ ┃ ┃ ┣ 📂mydocs
+   ┃ ┃ ┃ ┃ ┣ 📂lower  
+   ┃ ┃ ┃ ┃ ┗ 📂upper 
+   ┃ ┃ ┃ ┣ 📂ViewEdit
+   ┃ ┃ ┃ ┣ 📜BadgeGuide.tsx
+   ┃ ┃ ┃ ┣ 📜CloseBtn.tsx
+   ┃ ┃ ┃ ┣ 📜GradientBtn.tsx
+   ┃ ┃ ┃ ┣ 📜Header.tsx
+   ┃ ┃ ┃ ┣ 📜ModalStore.tsx
+   ┃ ┃ ┃ ┣ 📜Register.tsx
+   ┃ ┃ ┃ ┣ 📜SearchItem.tsx
+   ┃ ┃ ┃ ┣ 📜SearchList.tsx
+   ┃ ┃ ┃ ┣ 📜Signin.tsx
+   ┃ ┃ ┃ ┣ 📜useDebounce.tsx
+   ┃ ┃ ┃ ┗ 📜useOutsideClick.tsx
+   ┃ ┃ ┣ 📂pages
+   ┃ ┃ ┃ ┣ 📜MainPage.tsx  
+   ┃ ┃ ┃ ┣ 📜MyDocsPage.tsx  
+   ┃ ┃ ┃ ┣ 📜SharedDocPage.tsx  
+   ┃ ┃ ┃ ┗ 📜ViewerPage.tsx  
+   ┃ ┃ ┣ 📂store
+   ┃ ┃ ┃ ┗ 📜store.ts 
+   ┃ ┃ ┣ 📜App.css
+   ┃ ┃ ┣ 📜App.tsx
+   ┃ ┃ ┣ 📜GlobalStyle.tsx
+   ┃ ┃ ┣ 📜index.css
+   ┃ ┃ ┣ 📜main.tsx
+   ┃ ┃ ┗ 📜vite-env.d.ts
+   ┃ ┣ 📜.eslintrc.cjs
+   ┃ ┣ 📜.gitnore
+   ┃ ┣ 📜.prettierrc
+   ┃ ┣ 🐳docker-compose.dev.yml
+   ┃ ┣ 🐳Dockerfile
+   ┃ ┣ 📜Dockerfile.prod
+   ┃ ┣ 📜index.html
+   ┃ ┣ 📜package.json
+   ┃ ┣ 📜README.md
+   ┃ ┣ 📜tsconfig.json
+   ┃ ┣ 📜tsconfig.node.json
+   ┃ ┣ 📜vite.config.ts
+   ┃ ┣ 📜yarn.lock
+   ┣ 📂nginx
+   ┃ ┣ 🐳Dockerfile
+   ┃ ┗ 📜nginx.conf
+   ┣ 📂prometheus
+   ┃ ┗ 📜prometheus.yml
+   ┣ 📜.gitmodules
+   ┣ 🐳docker-compose.prod.yml
+   ┗ 📜README.md
+
+</code>
+</pre>
+</details>
 <br/><br/><br/>
 
 ## 😃 Member
