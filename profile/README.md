@@ -75,14 +75,67 @@
 ```
 git clone https://github.com/2023WB-TeamB/Docker-GCP.git
 ```
-
-3. Set environment file<br>
+<br/>
+2. Set environment file<br>
     - path : Docker-GCP/backend/.env<br>
-4. Set ceritificate.pem , priviate.key<br>
+```
+SECRET_KEY=''
+
+DATABASE_ENGINE=
+DATABASE_NAME=''
+DATABASE_USER=''
+DATABASE_PASSWORD=''
+DATABASE_HOST=
+DATABASE_PORT=
+DATABASE_OPTIONS=init_command=''
+
+GPT_SECRET_KEY=''
+
+ENG_TITLE_ASSISTANT_ID=''
+KOR_TITLE_ASSISTANT_ID=''
+
+ENG_OUTLINE_ASSISTANT_ID=''
+KOR_OUTLINE_ASSISTANT_ID=''
+
+ENG_CODE_ASSISTANT_ID=''
+KOR_CODE_ASSISTANT_ID=''
+
+ENG_TECH_STACK_ASSISTANT_ID=''
+KOR_TECH_STACK_ASSISTANT_ID=''
+
+ENG_MAIN_FUNCTION_ASSISTANT_ID=''
+KOR_MAIN_FUNCTION_ASSISTANT_ID=''
+
+ENG_CORE_ALGORITHM_ASSISTANT_ID=''
+KOR_CORE_ALGORITHM_ASSISTANT_ID=''
+
+
+FRAMEWORK_ASSISTANT_ID=''
+
+GITHUB_TOKEN=''
+
+RABBITMQ_DEFAULT_USER=
+RABBITMQ_DEFAULT_PASS=
+RABBITMQ_BROKER=''
+
+AWS_ACCESS_KEY_ID=''
+AWS_SECRET_ACCESS_KEY=''
+```
+<br/>
+3. Set ceritificate.pem , priviate.key<br>
     - path : Docker-GCP/nginx/ceritificate.pem<br>
+'''
+
+'''
     - path : Docker-GCP/nginx/priviate.key<br>
+'''
+
+'''
+<br/>
 5. run<br>
-      `docker-compose -f docker-compose.prod.yml up --build`
+'''
+docker-compose -f docker-compose.prod.yml up --build
+'''
 
 <br/><br/><br/>
 
