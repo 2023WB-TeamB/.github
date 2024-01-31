@@ -9,12 +9,12 @@
 <br/>
 <br/>
 
-
-
-
 ## 📒 Medium
 
 🔗 [Medium link](url)<br>
+
+<br/>
+<br/>
 
 ## 📹 Demo
 
@@ -34,9 +34,15 @@
 
   <img width="1470" alt="search image" src="">
 
+<br/>
+<br/>
+
 ## 💻 System Architechture
 
 <img alt="system architecture" src="./system-archtecture.png">
+
+<br/>
+<br/>
 
 ## 💡 Tech stack
 
@@ -53,10 +59,15 @@
 |    **etc**     | <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/chat gpt-009639?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> |
 
 </div>
+<br/>
+<br/>
 
 ## 💾 ERD
 
 <img width="1145" src="./ERD.png">
+
+<br/>
+<br/>
 
 ## 📚 API
 
@@ -68,6 +79,8 @@
 <img width="1304" alt="user qna API" src="https://github.com/A-Interview/.github/assets/132477328/36403af1-40b2-40ff-863b-aa0f0070fdc5">
   
 </div>
+<br/>
+<br/>
 
 ## 📈 Monitoring
 
@@ -87,6 +100,9 @@
   </tr>
 </table>
 
+<br/>
+<br/>
+
 ## 🚀 How to Start
 
 1. **clone the repository(docker-GCP)**
@@ -98,8 +114,8 @@
 4. run
     a. `docker-compose -f docker-compose.prod.yml up --build`
 
-
-
+<br/>
+<br/>
 
 ## 😃 Member
 
