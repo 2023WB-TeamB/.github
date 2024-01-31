@@ -10,16 +10,16 @@
 
 ## 📝 Table of Contents
 
-- [Medium](#Medium)<br>
-- [Demo](#Demo)<br>
-- [System Architechture](#System-Architechture)<br>
-- [Tech stack](#Tech-stack)<br>
-- [ERD](#ERD)<br>
-- [API](#API)<br>
-- [Monitoring](#Monitoring)<br>
-- [How to Start](#How-to-Start)<br>
-- [File Directory](#File-Directory)<br>
-- [Member](#Member)<br>
+- [Medium](#medium)<br>
+- [Demo](#demo)<br>
+- [System Architechture](#system-architechture)<br>
+- [Tech stack](#tech-stack)<br>
+- [ERD](#erd)<br>
+- [API](#api)<br>
+- [Monitoring](#monitoring)<br>
+- [How to Start](#how-to-start)<br>
+- [File Directory](#file-directory)<br>
+- [Member](#member)<br>
 
 <br/><br/><br/>
 
