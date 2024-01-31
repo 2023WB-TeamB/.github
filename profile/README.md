@@ -72,12 +72,14 @@
 <br/>
 
 1. clone the repository(docker-GCP)<br>
-2. Set environment file<br>
+    '''https://github.com/2023WB-TeamB/Docker-GCP.git
+    '''
+3. Set environment file<br>
     - path : Docker-GCP/backend/.env<br>
-3. Set ceritificate.pem , priviate.key<br>
+4. Set ceritificate.pem , priviate.key<br>
     - path : Docker-GCP/nginx/ceritificate.pem<br>
     - path : Docker-GCP/nginx/priviate.key<br>
-4. run<br>
+5. run<br>
       `docker-compose -f docker-compose.prod.yml up --build`
 
 <br/><br/><br/>
