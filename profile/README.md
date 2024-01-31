@@ -8,31 +8,17 @@
 </div>
 <br/>
 <br/>
+<br/>
 
 ## 📒 Medium
 
 🔗 https://medium.com/@woal9844/siliconvalley-winter-bootcamp-gitodoc-korean-e35907b4b030<br>
 
-<br/>
-<br/>
+<br/><br/>
 
 ## 📹 Demo
 
-### 🌐 메인페이지
 
-  <img width="1470" alt="search image" src="">
-
-### 마이독스페이지
-
-  <img width="1470" alt="search image" src="">
-
-### 에디터/뷰어페이지
-
-  <img width="1470" alt="search image" src="">
-
-### 뱃지 제작
-
-  <img width="1470" alt="search image" src="">
 
 <br/>
 <br/>
