@@ -72,8 +72,10 @@
 <br/>
 
 1. clone the repository(docker-GCP)<br>
-    '''https://github.com/2023WB-TeamB/Docker-GCP.git
-    '''
+```
+git clone https://github.com/2023WB-TeamB/Docker-GCP.git
+```
+
 3. Set environment file<br>
     - path : Docker-GCP/backend/.env<br>
 4. Set ceritificate.pem , priviate.key<br>
