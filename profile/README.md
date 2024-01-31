@@ -71,8 +71,8 @@
 
 <br/>
 
-1. **clone the repository(docker-GCP)**<br>
-2. **Set environment file**<br>
+1. clone the repository(docker-GCP)<br>
+2. Set environment file<br>
     - path : Docker-GCP/backend/.env<br>
 3. Set ceritificate.pem , priviate.key<br>
     - path : Docker-GCP/nginx/ceritificate.pem<br>
