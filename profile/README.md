@@ -4,7 +4,7 @@
 
 **깃허브 연동을 통해 기술 블로그, README 등의 문서화 작업을 효율적으로 도와주는 서비스입니다.**
 
-<img src="https://github.com/2023WB-TeamB/Backend/assets/154852834/43d7c0b7-68d6-43d6-b0da-aa9967687b81" width="389" height="389" alt="1"/>
+<img src="https://github.com/2023WB-TeamB/Backend/assets/154852834/43d7c0b7-68d6-43d6-b0da-aa9967687b81" width="389" height="389"/>
 </div>
 <br/><br/><br/><br/>
 
