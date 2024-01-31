@@ -11,7 +11,7 @@
 
 ## 📒 Medium
 
-🔗 [[Medium link](url)](https://medium.com/@woal9844/siliconvalley-winter-bootcamp-gitodoc-korean-e35907b4b030)<br>
+🔗 https://medium.com/@woal9844/siliconvalley-winter-bootcamp-gitodoc-korean-e35907b4b030<br>
 
 <br/>
 <br/>
