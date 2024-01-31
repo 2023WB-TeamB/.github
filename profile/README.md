@@ -1,4 +1,3 @@
-## 👋 Instruction 
 <div align=center>
 
 ![gitodoc](https://github.com/2023WB-TeamB/Backend/assets/154852834/d2522cec-9cd2-4e11-8a2a-ce5be03e821d)
