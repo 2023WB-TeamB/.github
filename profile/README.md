@@ -171,7 +171,7 @@ docker-compose -f docker-compose.prod.yml up --build
 ## 📁 File Directory
 
 <details>
-<summary>Click</summary>
+#### <summary>세부정보</summary>
 <pre>
 <code>
   📦Docker-GCP
