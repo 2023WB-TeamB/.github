@@ -1,7 +1,7 @@
 <div align=center>
 
 ![gitodoc](https://github.com/2023WB-TeamB/Backend/assets/154852834/d2522cec-9cd2-4e11-8a2a-ce5be03e821d)
-"Make your project perfect."<br>
+**"Make your project perfect."**<br>
 깃허브 연동을 통해 기술 블로그, README 등의 문서화 작업을 효율적으로 도와주는 서비스입니다.
 
 
@@ -39,15 +39,14 @@
 
 ## 💻 System Architechture
 
-<img alt="system architecture" src="./system-archtecture.png">
+<img width="996" alt="archi" src="https://github.com/2023WB-TeamB/Backend/assets/154852834/4627241f-6215-4fdb-9584-3efac0b9eab2">
 
 <br/>
 <br/>
 
 ## 💡 Tech stack
 
-✔️ [The reason for selecting these tech stacks](url)<br>
-
+<br>
 <div align =center>
 
 |      분야      |                                                                                                                                                                                                                                                                                                                                                                  사용 기술                                                                                                                                                                                                                                                                                                                                                                   |
@@ -64,7 +63,7 @@
 
 ## 💾 ERD
 
-<img width="1145" src="./ERD.png">
+<img width="1213" alt="ERD" src="https://github.com/2023WB-TeamB/Backend/assets/154852834/41023269-d808-4f21-8e0c-abe3c8e81a47">
 
 <br/>
 <br/>
@@ -75,8 +74,7 @@
 
 <div markdown="1">
   
-<img width="1307" alt="form gptanswer API" src="https://github.com/A-Interview/.github/assets/132477328/bdc6168f-0e31-447f-b716-7a4bb71ba30b">
-<img width="1304" alt="user qna API" src="https://github.com/A-Interview/.github/assets/132477328/36403af1-40b2-40ff-863b-aa0f0070fdc5">
+<img width="738" alt="api" src="https://github.com/2023WB-TeamB/Backend/assets/154852834/3a2926bd-985b-4e41-af7e-78c49d0dc897">
   
 </div>
 <br/>
@@ -86,19 +84,7 @@
 
 ### Grafana & Prometheus
 
-|                                                      **Django**                                                      |                                                   **Node exporter**                                                    |
-| :------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-| <img src = "https://github.com/A-Interview/.github/assets/132477328/c83cafc5-5fe0-4b89-a135-7a1d3dce90b0" width=90%> | <img src = "https://github.com/A-Interview/.github/assets/132477328/cf69b9c0-75a8-4afe-a516-cd1cadc138de" width=100% > |
-
-<table>
-  <tr>
-    <td colspan="2" align="center"><b>cAdvisor</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/A-Interview/.github/assets/132477328/95583237-488e-4f79-831a-0fc9cb589c25" width="100%" height="100%"></td>
-    <td align="center"><img src="https://github.com/A-Interview/.github/assets/132477328/bc251edb-eec3-4827-87ff-85e593735c67" width="100%"></td>
-  </tr>
-</table>
+![grafana](https://github.com/2023WB-TeamB/Backend/assets/154852834/7fee2bfb-909c-463d-bc0c-077f25850685)
 
 <br/>
 <br/>
