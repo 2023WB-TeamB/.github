@@ -71,14 +71,14 @@
 
 <br/>
 
-1. **clone the repository(docker-GCP)**
-2. **Set environment file**
-    a. path : Docker-GCP/backend/.env
-3. Set ceritificate.pem , priviate.key
-    a. path : Docker-GCP/nginx/ceritificate.pem
-    b. path : Docker-GCP/nginx/priviate.key
-4. run
-    a. `docker-compose -f docker-compose.prod.yml up --build`
+1. **clone the repository(docker-GCP)**<br>
+2. **Set environment file**<br>
+    - path : Docker-GCP/backend/.env<br>
+3. Set ceritificate.pem , priviate.key<br>
+    - path : Docker-GCP/nginx/ceritificate.pem<br>
+    - path : Docker-GCP/nginx/priviate.key<br>
+4. run<br>
+    `docker-compose -f docker-compose.prod.yml up --build`
 
 <br/><br/><br/>
 
