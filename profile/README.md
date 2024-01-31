@@ -59,7 +59,7 @@
 
 ## 💾 ERD
 
-<img width="1213" alt="ERD" src="https://github.com/2023WB-TeamB/Backend/assets/154852834/41023269-d808-4f21-8e0c-abe3c8e81a47">
+![image](https://github.com/2023WB-TeamB/Backend/assets/154852834/6e98749a-21e9-4fe3-bd15-fd8c4416ceec)
 
 <br/><br/><br/>
 
