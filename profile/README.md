@@ -75,9 +75,11 @@
 ```
 git clone https://github.com/2023WB-TeamB/Docker-GCP.git
 ```
+
 <br/>
-2. Set environment file<br/>
-    - path : Docker-GCP/backend/.env<br>
+
+2. Set environment file<br>
+- path : Docker-GCP/backend/.env<br>
     
 ```
 SECRET_KEY=''
@@ -127,24 +129,25 @@ AWS_SECRET_ACCESS_KEY=''
 3. Set ceritificate.pem , priviate.key<br/>
     - path : Docker-GCP/nginx/ceritificate.pem<br>
     
-'''
-
-'''
+```
+a
+```
 
 <br/>
 
     - path : Docker-GCP/nginx/priviate.key<br>
 
-'''
+```
+a
+```
 
-'''
 <br/>
 
-5. run<br>
+4. run<br>
 
-'''
+```
 docker-compose -f docker-compose.prod.yml up --build
-'''
+```
 
 <br/><br/><br/>
 
