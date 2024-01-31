@@ -6,29 +6,25 @@
 
 
 </div>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/><br/>
 
 ## 📒 Medium
 
 🔗 https://medium.com/@woal9844/siliconvalley-winter-bootcamp-gitodoc-korean-e35907b4b030<br>
 
-<br/><br/>
+<br/><br/><br/>
 
 ## 📹 Demo
 
 
 
-<br/>
-<br/>
+<br/><br/><br/>
 
 ## 💻 System Architechture
 
 <img width="996" alt="archi" src="https://github.com/2023WB-TeamB/Backend/assets/154852834/4627241f-6215-4fdb-9584-3efac0b9eab2">
 
-<br/>
-<br/>
+<br/><br/><br/>
 
 ## 💡 Tech stack
 
@@ -44,15 +40,13 @@
 |    **etc**     | <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/chat gpt-009639?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> |
 
 </div>
-<br/>
-<br/>
+<br/><br/><br/>
 
 ## 💾 ERD
 
 <img width="1213" alt="ERD" src="https://github.com/2023WB-TeamB/Backend/assets/154852834/41023269-d808-4f21-8e0c-abe3c8e81a47">
 
-<br/>
-<br/>
+<br/><br/><br/>
 
 ## 📚 API
 
@@ -63,8 +57,7 @@
 <img width="738" alt="api" src="https://github.com/2023WB-TeamB/Backend/assets/154852834/3a2926bd-985b-4e41-af7e-78c49d0dc897">
   
 </div>
-<br/>
-<br/>
+<br/><br/><br/>
 
 ## 📈 Monitoring
 
@@ -72,8 +65,7 @@
 
 ![grafana](https://github.com/2023WB-TeamB/Backend/assets/154852834/7fee2bfb-909c-463d-bc0c-077f25850685)
 
-<br/>
-<br/>
+<br/><br/><br/>
 
 ## 🚀 How to Start
 
@@ -86,8 +78,7 @@
 4. run
     a. `docker-compose -f docker-compose.prod.yml up --build`
 
-<br/>
-<br/>
+<br/><br/><br/>
 
 ## 😃 Member
 
