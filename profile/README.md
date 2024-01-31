@@ -1,6 +1,6 @@
 <div align=center>
 
-![gitodoc](https://github.com/2023WB-TeamB/Backend/assets/154852834/d2522cec-9cd2-4e11-8a2a-ce5be03e821d)
+![gitodoc](https://github.com/2023WB-TeamB/Backend/assets/154852834/d2522cec-9cd2-4e11-8a2a-ce5be03e821d)<br>
 **"Make your project perfect."**<br>
 깃허브 연동을 통해 기술 블로그, README 등의 문서화 작업을 효율적으로 도와주는 서비스입니다.
 
@@ -87,7 +87,7 @@
 | Name    |                   <center>김선재</center>                   |                    <center>고재훈</center>                    |                   <center>김광현</center>                   |                 <center>나희수</center>                 |                     <center>오채영</center>                     |                 <center>김동현</center>                 |                 <center>장태희</center>                 | <center>홍선아</center>    |
 | :------ | :---------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: | -------------------------- |
 | Profile |                                                             |                                                               |                                                             |                                                         |                                                                 |                                                         |                                                         |
-| role    |                 <center> Team Leader<br> Backend<br> DevOps</center>                  |                  <center> Frontend </center>                  |                 <center> Frontend </center>                 |               <center> Frontend </center>               |                   <center> Frontend </center>                    |  <center> Backend </center>   |          <center>Backend<br> DevOps</center>           | <center> Backend </center> |
+| role    |                 <center> Team Leader<br> Backend<br> DevOps</center>                  |                  <center> Frontend </center>                  |                 <center> Frontend </center>                 |               <center> Frontend </center>               |                   <center> Frontend </center>                    |  <center> Backend </center>   |          <center>Backend<br> DevOps</center>           | <center>Backend</center> |
 | GitHub  | <center>[@sunjae98](https://github.com/sunjae98)</center> | <center>[hoon99](https://github.com/hoon99)</center> | <center>[@Haron1248](https://github.com/Haron1248)</center> | <center>[@naGGuri](https://github.com/naGGuri)</center> | <center>[@ocy5007](https://github.com/ocy5007))</center> | <center>[@ddhhy](https://github.com/ddhhy)</center> | <center>[@TaeHee00](https://github.com/TaeHee00)</center> | <center>[@HongSeonah](https://github.com/HongSeonah)</center>
 
 </div>
