@@ -69,6 +69,8 @@
 
 ## 🚀 How to Start
 
+<br/>
+
 1. **clone the repository(docker-GCP)**
 2. **Set environment file**
     a. path : Docker-GCP/backend/.env
