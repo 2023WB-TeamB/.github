@@ -1,5 +1,5 @@
 <div align=center>
-<image width=50%, height=50%, src="./GiToDoc.png"><br>
+![GiToDoc](https://github.com/2023WB-TeamB/.github/assets/111751838/75e8615e-9845-48aa-ac96-10eac7493452)<br>
 
 **흥미를 가질만한 멘트를 적어보자**<br>
 
