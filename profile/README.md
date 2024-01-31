@@ -11,15 +11,15 @@
 ## 📝 Table of Contents
 
 - [Medium](#-medium)
-- [Demo](#demo)<br>
-- [System Architechture](#system-architechture)<br>
-- [Tech stack](#tech-stack)<br>
-- [ERD](#erd)<br>
-- [API](#api)<br>
-- [Monitoring](#monitoring)<br>
-- [How to Start](#how-to-start)<br>
-- [File Directory](#file-directory)<br>
-- [Member](#member)<br>
+- [Demo](#-demo)<br>
+- [System Architechture](#-system-architechture)<br>
+- [Tech stack](#-tech-stack)<br>
+- [ERD](#-erd)<br>
+- [API](#-api)<br>
+- [Monitoring](#-monitoring)<br>
+- [How to Start](#-how-to-start)<br>
+- [File Directory](#-file-directory)<br>
+- [Member](#-member)<br>
 
 <br/><br/><br/>
 
