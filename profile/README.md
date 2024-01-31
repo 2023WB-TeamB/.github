@@ -125,17 +125,19 @@ AWS_ACCESS_KEY_ID=''
 AWS_SECRET_ACCESS_KEY=''
 ```
 <br/>
+</div>
 
 3. Set ceritificate.pem , priviate.key<br/>
-    - path : Docker-GCP/nginx/ceritificate.pem<br>
+- path : Docker-GCP/nginx/ceritificate.pem<br>
     
 ```
 a
 ```
 
 <br/>
+</div>
 
-    - path : Docker-GCP/nginx/priviate.key<br>
+- path : Docker-GCP/nginx/priviate.key<br>
 
 ```
 a
