@@ -10,7 +10,7 @@
 
 ## 📝 Table of Contents
 
-- [📒 Medium](#📒-medium)
+- [Medium](#-medium)
 - [Demo](#demo)<br>
 - [System Architechture](#system-architechture)<br>
 - [Tech stack](#tech-stack)<br>
