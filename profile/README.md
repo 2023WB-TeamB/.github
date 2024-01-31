@@ -76,7 +76,7 @@
 git clone https://github.com/2023WB-TeamB/Docker-GCP.git
 ```
 <br/>
-2. Set environment file<br>
+2. Set environment file<br/>
     - path : Docker-GCP/backend/.env<br>
     
 ```
@@ -124,12 +124,14 @@ AWS_SECRET_ACCESS_KEY=''
 ```
 <br/>
 
-3. Set ceritificate.pem , priviate.key<br>
+3. Set ceritificate.pem , priviate.key<br/>
     - path : Docker-GCP/nginx/ceritificate.pem<br>
     
 '''
 
 '''
+
+<br/>
 
     - path : Docker-GCP/nginx/priviate.key<br>
 
