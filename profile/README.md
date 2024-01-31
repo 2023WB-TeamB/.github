@@ -1,7 +1,7 @@
 <div align=center>
-![GiToDoc](https://github.com/2023WB-TeamB/.github/assets/111751838/75e8615e-9845-48aa-ac96-10eac7493452)
+![https://github.com/2023WB-TeamB/.github/assets/111751838/75e8615e-9845-48aa-ac96-10eac7493452](https://private-user-images.githubusercontent.com/111751838/300177311-75e8615e-9845-48aa-ac96-10eac7493452.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2ODM1MDIsIm5iZiI6MTcwNjY4MzIwMiwicGF0aCI6Ii8xMTE3NTE4MzgvMzAwMTc3MzExLTc1ZTg2MTVlLTk4NDUtNDhhYS1hYzk2LTEwZWFjNzQ5MzQ1Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMVQwNjQwMDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NzBmOWQ5ZWUxMDM2NzIxMzJlNzZlNWE3ZjgxNzdjYmY0NGQ0MGU5N2YwMmU1OGVmMzQ5Mzc0ZTNhY2IzNDVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.KQcNRBG26q6ncawvMtI2gxZBcROHowP1aYOWrnvFZbw)
 
-**Make your project perfect. **<br>
+**Make your project perfect.**<br>
 
 ##### URL: ~~~~~~~~~~
 
