@@ -146,7 +146,9 @@ AWS_SECRET_ACCESS_KEY=''
 Path : Docker-GCP/nginx/ceritificate.pem<br>
     
 ```
-a
+-----BEGIN CERTIFICATE-----
+
+-----END CERTIFICATE-----
 ```
 
 <br>
@@ -155,7 +157,9 @@ a
 Path : Docker-GCP/nginx/priviate.key<br>
 
 ```
-a
+-----BEGIN RSA PRIVATE KEY-----
+
+-----END RSA PRIVATE KEY-----
 ```
 
 <br/>
