@@ -2,19 +2,9 @@
 
 ![a](https://github.com/2023WB-TeamB/Backend/assets/154852834/dc9f71a6-d196-4cae-adda-a4fccdf23b69)<br>
 
-**-깃허브 연동을 통해 기술 블로그, README 등의 문서화 작업을 효율적으로 도와주는 서비스입니다.-**
+**- 깃허브 연동을 통해 기술 블로그, README 등의 문서화 작업을 효율적으로 도와주는 서비스입니다. -**
 </div>
-<br/><br/><br/>
-## 메인페이지
-메인 페이지에서는 로그인과 회원가입 그리고 GiToDoc에 대한 소개가 있습니다.
-<br/>
-## 마이독스
-로그인을 한 뒤 이동되는 마이독스 페이지입니다. 여기서는 생성된 문서를 카드의 형태로 보관하고 라운드 캐러셀과 갤러리를 통해 언제든 다시 찾아볼 수 있으며 캐러셀엔 최근 생성된 10개의 문서가 표현되고 갤러리에는 모든 문서가 페이지 네이션되어 보관됩니다.  문서가 수가 찾기가 어렵다면 문서의 타이틀이나 태그를 검색해서 찾고 싶은 문서를 쉽게 조회할 수 있습니다. 조회된 문서는 프리뷰로 볼 수 있고 여기서 카드의 색상을 변경할 수 있고 삭제도 가능합니다.
-<br/>
-## 뷰어
-프리뷰에서 View Details를 클릭하면 이동되는 뷰어 페이지입니다. 여기서는 생성된 문서의 전체 내용을 확인할 수 있습니다. 문서를 수정하고 싶다면 에디터 기능을 갖추고 있어 마크다운 형식으로 수정이 가능하고 사진 첨부도 가능합니다. 또 GiToDoc이 제공하는 깃허브 스테이터스 배지를 생성하여 문서에 시각적인 즐거움을 제공해 드립니다
-뷰어 페이지에서 왼쪽 슬라이드바의 Document에서 다른 문서를 조회할 수 있고 같은 레포지토리의 URL로 생성된 문서라면 Project 탭에서 버전별로 문서 조회가 가능합니다. Export를 통해 문서의 외부에서 확인이 가능하게 URL을 생성하거나 QR코드를 만들어서 문서를 공유할 수 있습니다.
-<br/><br/><br/>
+<br/><br/>
 
 ## 📝 Table of Contents
 
@@ -28,29 +18,35 @@
 - [How to Start](#-how-to-start)<br>
 - [File Directory](#-file-directory)<br>
 - [Member](#-member)<br>
-
-<br/><br/><br/>
+<br/>
 
 ## 📒 Medium
-
 🔗 https://medium.com/@woal9844/siliconvalley-winter-bootcamp-gitodoc-korean-e35907b4b030<br>
-
-<br/><br/><br/>
+<br/><br/>
 
 ## 📹 Demo
+### 메인페이지
+- 메인 페이지에서는 로그인과 회원가입 그리고 GiToDoc에 대한 소개가 있습니다.
+![메인](https://github.com/2023WB-TeamB/.github/assets/111751838/d9c77b9f-4f8f-46b5-93a9-e59d4d5d1bce)
+### 마이독스
+- 생성된 문서를 카드의 형태로 보관하고 라운드 캐러셀과 갤러리를 통해 언제든 다시 찾아볼 수 있으며 캐러셀엔 최근 생성된 10개의 문서가 표현되고 갤러리에는 모든 문서가 페이지 네이션되어 보관됩니다.
+![마이독스](https://github.com/2023WB-TeamB/.github/assets/111751838/e0034abd-63b7-48e1-9fcf-8c6cb6356651)
+- 문서가 수가 찾기가 어렵다면 문서의 타이틀이나 태그를 검색해서 찾고 싶은 문서를 쉽게 조회할 수 있습니다. 조회된 문서는 프리뷰로 볼 수 있고 여기서 카드의 색상을 변경할 수 있고 삭제도 가능합니다.
+![마이독스-검색-](https://github.com/2023WB-TeamB/.github/assets/111751838/5a12aa0a-8e01-4058-ad37-045ac1bf340d)
 
-
-
-<br/><br/><br/>
-
+### 뷰어
+- 프리뷰에서 View Details를 클릭하면 이동되는 뷰어 페이지입니다.
+- 여기서는 생성된 문서의 전체 내용을 확인할 수 있습니다.
+- 문서를 수정하고 싶다면 에디터 기능을 갖추고 있어 마크다운 형식으로 수정이 가능하고 사진 첨부도 가능합니다.
+- 또 GiToDoc이 제공하는 깃허브 스테이터스 배지를 생성하여 문서에 시각적인 즐거움을 제공해 드립니다.
+- 뷰어 페이지에서 왼쪽 슬라이드바의 Document에서 다른 문서를 조회할 수 있고 같은 레포지토리의 URL로 생성된 문서라면 Project 탭에서 버전별로 문서 조회가 가능합니다.
+- Export를 통해 문서의 외부에서 확인이 가능하게 URL을 생성하거나 QR코드를 만들어서 문서를 공유할 수 있습니다.
+<br/><br/>
 ## 💻 System Architechture
-
 <img width="996" alt="archi" src="https://github.com/2023WB-TeamB/Backend/assets/154852834/4627241f-6215-4fdb-9584-3efac0b9eab2">
-
-<br/><br/><br/>
+<br/><br/>
 
 ## 💡 Tech stack
-
 <br>
 <div align =center>
 
@@ -61,26 +57,19 @@
 |   **DevOps**   |                                                                                            <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/compute engine-2496ED?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white"> <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">                                                                                          |
 | **Monitoring** |                                                                                                                                                                                                                                                           <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">                                                                                                                                                                                                                                                             |
 |    **etc**     | <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/chat gpt-009639?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> |
-
 </div>
-<br/><br/><br/>
+<br/><br/>
 
 ## 💾 ERD
-
 ![image](https://github.com/2023WB-TeamB/Backend/assets/154852834/6e98749a-21e9-4fe3-bd15-fd8c4416ceec)
-
-<br/><br/><br/>
+<br/><br/>
 
 ## 📚 API
-
 ### swagger
-
 <div markdown="1">
-  
 <img width="738" alt="api" src="https://github.com/2023WB-TeamB/Backend/assets/154852834/3a2926bd-985b-4e41-af7e-78c49d0dc897">
-  
 </div>
-<br/><br/><br/>
+<br/><br/>
 
 ## 📈 Monitoring
 
@@ -88,7 +77,7 @@
 
 ![grafana](https://github.com/2023WB-TeamB/Backend/assets/154852834/7fee2bfb-909c-463d-bc0c-077f25850685)
 
-<br/><br/><br/>
+<br/><br/>
 
 ## 🚀 How to Start
 
@@ -103,7 +92,6 @@ git clone https://github.com/2023WB-TeamB/Docker-GCP.git
 
 #### 2. Set environment file<br>
 Path : Docker-GCP/backend/.env<br>
-    
 ```
 SECRET_KEY=''
 
@@ -169,7 +157,6 @@ Path : Docker-GCP/nginx/priviate.key<br>
 
 -----END RSA PRIVATE KEY-----
 ```
-
 <br/>
 
 #### 4. run<br>
@@ -178,7 +165,7 @@ Path : Docker-GCP/nginx/priviate.key<br>
 docker-compose -f docker-compose.prod.yml up --build
 ```
 
-<br/><br/><br/>
+<br/><br/>
 
 ## 📁 File Directory
 
@@ -312,7 +299,7 @@ docker-compose -f docker-compose.prod.yml up --build
 </code>
 </pre>
 </details>
-<br/><br/><br/>
+<br/><br/>
 
 ## 😃 Member
 
