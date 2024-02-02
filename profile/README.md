@@ -27,20 +27,26 @@
 ## 📹 Demo
 
 ### 메인페이지
-![메인](https://github.com/2023WB-TeamB/.github/assets/111751838/d9c77b9f-4f8f-46b5-93a9-e59d4d5d1bce)
+![메인](https://github.com/2023WB-TeamB/.github/assets/111751838/8c35948a-9caa-4d62-8b4a-8866d4368d45)
+
 ### 마이독스
-![마이독스](https://github.com/2023WB-TeamB/.github/assets/111751838/e0034abd-63b7-48e1-9fcf-8c6cb6356651)
+![마이독스-조회](https://github.com/2023WB-TeamB/.github/assets/111751838/d7561397-d6ba-41ea-9877-7650df126787)
+
 ### 마이독스 - 생성
-![마이독스-생성](https://github.com/2023WB-TeamB/.github/assets/111751838/c13bfb1c-fb9f-4bdf-bdde-7eaefa3bdf67)
+![마이독스-생성](https://github.com/2023WB-TeamB/.github/assets/111751838/3e0ef5dc-c60e-4350-942f-dd48862b4c8b)
+
 ### 마이독스 - 검색
-![마이독스-검색-](https://github.com/2023WB-TeamB/.github/assets/111751838/5a12aa0a-8e01-4058-ad37-045ac1bf340d)
+![마이독스-검색](https://github.com/2023WB-TeamB/.github/assets/111751838/14d538f3-d8fc-48e7-b7c7-52a125c9b76b)
 
 ### 뷰어
-![뷰어-조회](https://github.com/2023WB-TeamB/.github/assets/111751838/c22f9b50-6dd5-4d71-95da-e43e63b247a0)
+![뷰어-조회](https://github.com/2023WB-TeamB/.github/assets/111751838/2a3bfef6-c264-45a7-b846-eb0187992e43)
+
 ### 뷰어 - 에디터
-![마이독스-에디터2](https://github.com/2023WB-TeamB/.github/assets/111751838/6b78743a-c4b9-440a-aea4-5d0a993f5fb9)
+![뷰어-에디터](https://github.com/2023WB-TeamB/.github/assets/111751838/afa88497-7522-4562-9a3e-e755706adeeb)
+
 ### 뷰어 - 공유
-![뷰어-공](https://github.com/2023WB-TeamB/.github/assets/111751838/c2b5ae93-358a-476a-bcf6-909280d293c7)
+![뷰어-공유](https://github.com/2023WB-TeamB/.github/assets/111751838/fa521d0c-046f-4733-a395-aef015a84ef0)
+
 <br/><br/>
 ## 💻 System Architechture
 <img width="996" alt="archi" src="https://github.com/2023WB-TeamB/Backend/assets/154852834/4627241f-6215-4fdb-9584-3efac0b9eab2">
