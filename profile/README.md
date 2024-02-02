@@ -35,12 +35,12 @@
 ### 마이독스 - 검색
 ![마이독스-검색-](https://github.com/2023WB-TeamB/.github/assets/111751838/5a12aa0a-8e01-4058-ad37-045ac1bf340d)
 
-### 뷰어 (문서 조회과정 보여주자)
-
-### 뷰어 - 에디터(사진,폰트 등등 보여주자)
-
+### 뷰어
+![뷰어-조회](https://github.com/2023WB-TeamB/.github/assets/111751838/c22f9b50-6dd5-4d71-95da-e43e63b247a0)
+### 뷰어 - 에디터
+![마이독스-에디터2](https://github.com/2023WB-TeamB/.github/assets/111751838/6b78743a-c4b9-440a-aea4-5d0a993f5fb9)
 ### 뷰어 - 공유(qr코드 생성 과정)
-
+![뷰어-공](https://github.com/2023WB-TeamB/.github/assets/111751838/c2b5ae93-358a-476a-bcf6-909280d293c7)
 <br/><br/>
 ## 💻 System Architechture
 <img width="996" alt="archi" src="https://github.com/2023WB-TeamB/Backend/assets/154852834/4627241f-6215-4fdb-9584-3efac0b9eab2">
