@@ -1,6 +1,6 @@
 <div align=center>
 
-![a](https://github.com/2023WB-TeamB/Backend/assets/154852834/dc9f71a6-d196-4cae-adda-a4fccdf23b69)<br>
+<img width="524" alt="로고" src="https://github.com/2023WB-TeamB/.github/assets/111751838/1ee16605-604b-4c8d-83f8-475c8f80ea73"><br>
 
 **- 깃허브 연동을 통해 기술 블로그, README 등의 문서화 작업을 효율적으로 도와주는 서비스입니다. -**
 </div>
